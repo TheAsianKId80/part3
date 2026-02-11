@@ -1,1 +1,1 @@
-﻿email: "ruzh@itu.dk"
+﻿email="ruzh@itu.dk"
